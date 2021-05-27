@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "hospitalRoomReservation"
+    }
+  },
+  "defaultProject": "hospitalRoomReservation",
+  "cli": {
+    "analytics": false
+  }
 }
